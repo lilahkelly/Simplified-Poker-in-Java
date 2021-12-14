@@ -1,4 +1,4 @@
-package proj4; // do not erase. Gradescope expects this.
+package proj4; 
 public class Card {
     private int rank;
     private String suit;
